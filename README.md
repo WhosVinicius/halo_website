@@ -9,13 +9,13 @@ TAB => Indents a line in two spaces.
 CTRL + Backspace => Removes one indent from the line.
 
 ## These commands are for Normal Mode only:
-I => Enters insert mode.
-U => Moves the line up.
-H => Moves the line down.
-X => Removes the line.
-M => Moves the cursor to the start of the file.
-N => Moves the cursor to the end of the file
-Q => Moves the cursor to the start of the line.
+I => Enters insert mode.<br> 
+U => Moves the line up.<br> 
+H => Moves the line down.<br> 
+X => Removes the line.<br> 
+M => Moves the cursor to the start of the file.<br> 
+N => Moves the cursor to the end of the file<br> 
+Q => Moves the cursor to the start of the line.<br> 
 E => Moves the cursor to the end of the line
 
 ## For exiting Insert Mode, just press ESC
